@@ -18,7 +18,7 @@ I am a Legal & Compliance Counsel specializing in:
 
 My focus is on building scalable legal frameworks that support business growth while ensuring regulatory compliance across multiple jurisdictions.
 
-# Not a gatekeeper but business enabler 
+** Note - Not a gatekeeper but business enabler **
 ---
 
 ## 🎯 Career Objective
